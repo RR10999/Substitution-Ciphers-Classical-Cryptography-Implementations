@@ -1,0 +1,2 @@
+# Substitution-Ciphers-Classical-Cryptography-Implementations
+This repository contains implementations of classical substitution ciphers, fundamental in cryptography. Substitution ciphers work by replacing characters in plaintext with other characters based on a fixed or variable key. These methods, though historically significant, serve as a foundation for understanding modern encryption techniques.
